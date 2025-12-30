@@ -1,16 +1,5 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23886
-Fork on GitHub8183
 <h1 align="center">Hi 👋, I'm Caio</h1>
 <h3 align="center">Software developer with experience in fullstack and backend development, focused on building APIs, integrations, and cloud-based solutions on AWS. I enjoy working in a structured way, understanding the full context of problems, and delivering scalable, well-organized, and maintainable solutions. Always learning and improving, with a strong interest in backend architecture and system design.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caio-calhau&label=Profile%20views&color=0e75b6&style=flat" alt="caio-calhau" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caio-calhau" alt="caio-calhau" /></a> </p>
 
 - 📫 How to reach me **caiocalhaum@gmail.com**
 
