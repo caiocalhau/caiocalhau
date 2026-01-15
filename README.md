@@ -14,7 +14,6 @@ Currently focused on **backend architecture**, cloud infrastructure, and scalabl
 
 - **Email:** caiocalhaum@gmail.com  
 - **LinkedIn:** [linkedin.com/in/caio-martins-30962b142](https://www.linkedin.com/in/caio-martins-30962b142)  
-- **GitHub:** [github.com/Caio-Calhau](https://github.com/Caio-Calhau)
 
 ---
 
