@@ -8,15 +8,6 @@ Strong background in building **APIs, scalable services, and web/mobile applicat
 I work in a structured and organized way, valuing planning, code quality, collaboration between teams, and continuous improvement.  
 Currently focused on **backend architecture**, cloud infrastructure, and scalable solutions, while also actively working with frontend technologies.
 
----
-
-## 📫 How to reach me
-
-- **Email:** caiocalhaum@gmail.com  
-- **LinkedIn:** [linkedin.com/in/caio-martins-30962b142](https://www.linkedin.com/in/caio-martins-30962b142)  
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 ### Languages
