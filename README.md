@@ -1,12 +1,12 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand">, I'm Caio Martins
 
-## Fullstack Software Developer | Backend | Frontend | AWS
+## Fullstack Software Developer | Backend | Frontend
 
-Software Developer with professional experience in **fullstack development**, working across **frontend, backend, and cloud-based solutions on AWS**.  
-Strong background in building **APIs, scalable services, and web/mobile applications**, with a focus on **clean architecture, maintainability, and system design**.
+Desenvolvedor de Software com experiência profissional em desenvolvimento fullstack, atuando em frontend, backend e soluções em nuvem na AWS.
+Forte histórico na construção de APIs, serviços escaláveis e aplicações web/mobile, com foco em arquitetura limpa, manutenibilidade e design de sistemas.
 
-I work in a structured and organized way, valuing planning, code quality, collaboration between teams, and continuous improvement.  
-Currently focused on **backend architecture**, cloud infrastructure, and scalable solutions, while also actively working with frontend technologies.
+Trabalho de forma estruturada e organizada, valorizando planejamento, qualidade de código, colaboração entre equipes e melhoria contínua.
+Atualmente focado em arquitetura backend, infraestrutura em nuvem e soluções escaláveis, ao mesmo tempo em que atuo ativamente com tecnologias frontend.
 
 ## 🛠️ Tech Stack & Skills
 
@@ -30,8 +30,8 @@ Currently focused on **backend architecture**, cloud infrastructure, and scalabl
 
 ## 🎯 Professional Focus
 
-- Backend development with **AWS serverless architecture**
-- API design and integrations
-- Frontend and mobile development with **React and React Native**
-- Infrastructure as Code and cloud scalability
-- Clean code, maintainable systems, and team collaboration
+- Desenvolvimento backend com arquitetura serverless na AWS
+- Design de APIs e integrações
+- Desenvolvimento frontend e mobile com React e React Native
+- Infraestrutura como código e escalabilidade em nuvem
+- Código limpo, sistemas manuteníveis e colaboração em equipe
